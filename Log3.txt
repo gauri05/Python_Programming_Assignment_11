@@ -1,0 +1,12 @@
+ Design automation script which accept directory name and delete all duplicate files from that directory. Write names of duplicate files from that directory into log file named as Log.txt. Log.txt file should be created into current directory. Display execution time required for the script. 
+Application name:Assignment11_4.py
+Current folder is:G:\python\30.11.2019\Python Programming Assignment - 11\data
+ADDDD
+Current folder is:G:\python\30.11.2019\Python Programming Assignment - 11\data\first
+Current folder is:G:\python\30.11.2019\Python Programming Assignment - 11\data\first\F1
+ADDDD
+Current folder is:G:\python\30.11.2019\Python Programming Assignment - 11\data\first\F2
+Current folder is:G:\python\30.11.2019\Python Programming Assignment - 11\data\second
+Current folder is:G:\python\30.11.2019\Python Programming Assignment - 11\data\second\S1
+No duplicates files found.
+Took 0.0 seconds to evaluate.

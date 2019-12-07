@@ -1,0 +1,18 @@
+Design automation script which accept directory name and delete all duplicate files from that directory. Write names of duplicate files from that directory into log file named as Log.txt. Log.txt file should be created into current directory
+Application name:Assignment11_3.py
+Current folder is:G:\python\30.11.2019\Python Programming Assignment - 11\data
+ADDDD
+Append
+Current folder is:G:\python\30.11.2019\Python Programming Assignment - 11\data\first
+Current folder is:G:\python\30.11.2019\Python Programming Assignment - 11\data\first\F1
+ADDDD
+Current folder is:G:\python\30.11.2019\Python Programming Assignment - 11\data\first\F2
+Current folder is:G:\python\30.11.2019\Python Programming Assignment - 11\data\second
+Current folder is:G:\python\30.11.2019\Python Programming Assignment - 11\data\second\S1
+Append
+$$$result::: ['G:\\python\\30.11.2019\\Python Programming Assignment - 11\\data\\prog1.txt', 'G:\\python\\30.11.2019\\Python Programming Assignment - 11\\data\\prog2.txt']
+####subresult::: G:\python\30.11.2019\Python Programming Assignment - 11\data\prog1.txt
+####subresult::: G:\python\30.11.2019\Python Programming Assignment - 11\data\prog2.txt
+$$$result::: ['G:\\python\\30.11.2019\\Python Programming Assignment - 11\\data\\first\\F1\\abcF1.txt', 'G:\\python\\30.11.2019\\Python Programming Assignment - 11\\data\\second\\S1\\xyxS1.txt']
+####subresult::: G:\python\30.11.2019\Python Programming Assignment - 11\data\first\F1\abcF1.txt
+####subresult::: G:\python\30.11.2019\Python Programming Assignment - 11\data\second\S1\xyxS1.txt
